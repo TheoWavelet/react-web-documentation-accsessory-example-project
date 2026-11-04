@@ -7,8 +7,7 @@ The app demonstrates feature-based React architecture, routing, form validation,
 query caching, and optimistic task updates.
 
 The project was built from the
-[Advanced React Web Development — The Complete Guide](../../../Downloads/Advanced%20React%20Web%20Development%20%E2%80%94%20The%20Complete%20Guide.pdf)
-PDF.
+[Advanced React Web Development — The Complete Guide](<./Advanced React Web Development — The Complete Guide.md>).
 
 ## Run locally
 
